@@ -1,4 +1,4 @@
-from yoda import db 
+from yoda2 import db 
 
 
 class Aluno(db.Model):

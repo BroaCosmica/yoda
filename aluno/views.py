@@ -1,5 +1,5 @@
 from yoda2 import app
 
-@app.route('/login'):
+@app.route('/login')
 def login():
-    return 'Olá, aluno'
+    return 'Login Aluno'
